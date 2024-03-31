@@ -1,0 +1,35 @@
+[
+{
+    "name":"Math",
+    "instructor":{
+    	"id":1
+    },
+    "students":[
+    	{"id": 1},
+    	{"id": 2},
+    	{"id": 3}
+    ]
+},
+{
+    "name":"Programming",
+    "instructor":{
+    	"id":2
+    },
+    "students":[
+    	{"id": 3},
+    	{"id": 4}
+    ]
+},
+{
+    "name":"History",
+    "instructor":{
+    	"id":3
+    },
+    "students":[
+    	{"id": 1},
+    	{"id": 2},
+    	{"id": 3},
+    	{"id": 4}
+    ]
+}
+]

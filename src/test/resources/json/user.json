@@ -1,0 +1,90 @@
+[
+{
+    "email":"mehmet@mmk.com",
+    "name":"Mehmet",
+    "surname":"KILIC",
+    "password":"1234",
+    "department":"IT"
+},
+{
+    "email":"ufuk@mmk.com",
+    "name":"Ufuk",
+    "surname":"DOGAN",
+    "password":"1234",
+    "department":"SALES"
+},
+{
+    "email":"asli@mmk.com",
+    "name":"Asli",
+    "surname":"TEZCANOGLU",
+    "password":"1234",
+    "department":"HUMAN_RESOURCES"
+},
+{
+    "email":"yigit@mmk.com",
+    "name":"Yigit",
+    "surname":"KAYNAR",
+    "password":"1234",
+    "department":"ENGINEERING"
+},
+{
+    "email":"murat@mmk.com",
+    "name":"Murat",
+    "surname":"GURCEMAL",
+    "password":"1234",
+    "department":"IT",
+    "manager":{
+    	"email":"mehmet@mmk.com"
+    }
+},
+{
+    "email":"muhammet@mmk.com",
+    "name":"Muhammet",
+    "surname":"YAGDIRAN",
+    "password":"1234",
+    "department":"IT",
+    "manager":{
+    	"email":"mehmet@mmk.com"
+    }
+},
+{
+    "email":"yasin@mmk.com",
+    "name":"Yasin",
+    "surname":"AY",
+    "password":"1234",
+    "department":"IT",
+    "manager":{
+    	"email":"mehmet@mmk.com"
+    }
+},
+{
+    "email":"meltem@mmk.com",
+    "name":"Meltem",
+    "surname":"DURMAZ",
+    "password":"1234",
+    "department":"SALES",
+    "manager":{
+    	"email":"ufuk@mmk.com"
+    }
+},
+{
+    "email":"demet@mmk.com",
+    "name":"Demet",
+    "surname":"OKTA",
+    "password":"1234",
+    "department":"HUMAN_RESOURCES",
+    "manager":{
+    	"email":"asli@mmk.com"
+    }
+},
+{
+    "email":"berk@mmk.com",
+    "name":"Berk",
+    "surname":"GOKCEN",
+    "password":"1234",
+    "department":"ENGINEERING",
+    "manager":{
+    	"email":"yigit@mmk.com"
+    }
+}
+]

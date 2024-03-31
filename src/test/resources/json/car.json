@@ -1,0 +1,48 @@
+[
+{
+    "name":"BMW",
+    "wheel":{
+    	"size":"R18"
+    },
+    "engine":{
+    	"name":"TSI",
+    	"type":"PETROL",
+    	"pistonCount":6,
+    	"sparkPlug": "spark"
+    },
+    "doors":[
+	    {
+	    	"type":"FRONT_LEFT"
+	    },
+	    {
+	    	"type":"FRONT_RIGHT"
+	    }
+    ]
+},
+{
+    "name":"Ford",
+    "wheel":{
+    	"size":"R16"
+    },
+    "engine":{
+    	"name":"TDI",
+    	"type":"DIESEL",
+    	"pistonCount":4,
+    	"injector": "diesel injector"
+    },
+    "doors":[
+	    {
+	    	"type":"FRONT_LEFT"
+	    },
+	    {
+	    	"type":"FRONT_RIGHT"
+	    },
+	    {
+	    	"type":"REAR_LEFT"
+	    },
+	    {
+	    	"type":"REAR_RIGHT"
+	    }
+    ]
+}
+]
